@@ -23,4 +23,23 @@
  
      
   
+# Struktura pro cílovou skupinu koncových uživatelů #
 
+  - Jak tento rezervační systém funguje a v čem se skrývá jeho užitečnost
+  - Rezervační/Kalkulační formulář
+    - Kde najít rezervační/kalkulační formulář
+    - Jak správně vyplnit tento formulář
+    - Co se děje po prvotním odeslání formuláře
+    - Kdy je vytvoření rezervace dokončeno
+  - Rezervace
+    - Co všechno si lze zarezervovat pomocí tohoto sytému
+    - Jak vytvořit závaznou rezervaci
+  - Kalkulace
+    - Co znamená cena zobrazená po odeslání formuláře
+    - Vybral jsem si balíček ale nebyla mi započítána sleva
+    - Jak cenu ovlivňuje rezervace hotelu či transferu
+    - Finální cena rezervace
+  - Podmínky zpracování osobních údajů
+  - Vyloučení odpovědnosti za veškeré platby za rezervace vytvořené tímto systémem
+
+  
