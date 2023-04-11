@@ -7,20 +7,20 @@ Webová aplikace jednoduchého rezervačního systému. Aplikace umožní zjedno
 ## Cílové skupiny ##
 
 ### Sportovní centrum ###
-  - chce mít nejlépe všechny jeho služby a ceny na jednom místě
-  - může zařizovat i hotely a transfery
-  - někdy poskytuje i balíčky s různými slevami
-  - potřebuje v informacích pořádek
-  - potřebuje přístup do administrativního rozhraní aplikace
-  - potřebuje aby nenastávaly chyby či výpadky systému při velkých množstvích rezervací
-  - potřebuje pracovat rychle
+  - Chce mít nejlépe všechny jeho služby a ceny na jednom místě.
+  - Může zařizovat i hotely a transfery.
+  - Někdy poskytuje i balíčky s různými slevami.
+  - Potřebuje v informacích pořádek.
+  - Potřebuje přístup do administrativního rozhraní aplikace.
+  - Potřebuje aby nenastávaly chyby či výpadky systému při velkých množstvích rezervací.
+  - Potřebuje pracovat rychle.
 
 ### Koncový uživatel - klient sportovního centra ###
-  - chce si udělat v centru rezervaci
-  - chce se dozvědět cenu za služby centra
-  - předpokládá, že rezervací či následnou platbou u něj starosti končí a zbytek zařídí centrum
-  - potřebuje jednoduchou a přehlednou aplikaci aby ho její používání neodradilo od využití služeb centra
-  - chce si zasportovat a neřešit nic okolo
-  - někdy bude chtít aby mu centrum poskytlo hotel či transfer
-  - nesmí se dostat do administrační části aplikace
+  - Chce si udělat v centru rezervaci.
+  - Chce se dozvědět cenu za služby centra.
+  - Předpokládá, že rezervací či následnou platbou u něj starosti končí a zbytek zařídí centrum.
+  - Potřebuje jednoduchou a přehlednou aplikaci aby ho její používání neodradilo od využití služeb centra.
+  - Chce si zasportovat a neřešit nic okolo.
+  - Někdy bude chtít aby mu centrum poskytlo hotel či transfer.
+  - Nesmí se dostat do administrační části aplikace.
 
