@@ -1,8 +1,5 @@
 # RezKalk Sport
 
-Autor: Viktorie Srnková
-Kontakt: viktorie.srnkova@tul.cz
-
 ### 1. O aplikaci
 
 Tato aplikace je rezervačním/kalkulačním systémem tvořeným pro klienty sportovních center. Aplikace umožňuje zjednodušení rezervování služeb ve sportovních centrech a přibližnou kalkulaci služeb pro klienty těchto center.
