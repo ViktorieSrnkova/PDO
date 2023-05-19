@@ -17,49 +17,49 @@ Výhodou tohoto systému je shromažďování dat o službách sportovního cent
 
 ### 3.1 Kde najít rezervační/kalkulační formulář?
 
-    Formulář najdete na našich webových stránkách www.strankyzatimneexistuji.cz. Po otevření našich stránek jednoduše klikněte na tlačítko "Rezervovat" a budete přesměrováni na stránku s rezervačním formulářem.
+Formulář najdete na našich webových stránkách www.strankyzatimneexistuji.cz. Po otevření našich stránek jednoduše klikněte na tlačítko "Rezervovat" a budete přesměrováni na stránku s rezervačním formulářem.
 
 ### 3.2 Jak správně vyplnit tento formulář?
 
-    Formulář obsahuje několik položek, které je třeba vyplnit.
+Formulář obsahuje několik položek, které je třeba vyplnit.
 
-    Nejprve si vyberete sport, který chcete rezervovat. Dále vyplníte počet hráčů a nehráčů a uvedete datum příjezdu a odjezdu v případě několikadenní rezervace. Potom si můžete rezervovat ubytování u jednoho z partnerských hotelů centra nebo transfer mezi Vaším hotelem a hřištěm. Následuje další nepovinná sekce, kde si můžete vybrat bonusové aktivity nebo aktivity pro nehráče z Vaší skupiny. Do této části je také zahrnuto pole pro poznámky. Formulář končí povinnou sekcí pro vyplnění osobních informací jako je například jméno a příjmení a souhlasy se zpracováním těchto údajů. Povinná pole formuláře jsou označena hvězdičkou (\*).
+Nejprve si vyberete sport, který chcete rezervovat. Dále vyplníte počet hráčů a nehráčů a uvedete datum příjezdu a odjezdu v případě několikadenní rezervace. Potom si můžete rezervovat ubytování u jednoho z partnerských hotelů centra nebo transfer mezi Vaším hotelem a hřištěm. Následuje další nepovinná sekce, kde si můžete vybrat bonusové aktivity nebo aktivity pro nehráče z Vaší skupiny. Do této části je také zahrnuto pole pro poznámky. Formulář končí povinnou sekcí pro vyplnění osobních informací jako je například jméno a příjmení a souhlasy se zpracováním těchto údajů. Povinná pole formuláře jsou označena hvězdičkou (\*).
 
 ### 3.3 Co se děje po prvotním odeslání formuláře?
 
-    Po odeslání formuláře vám aplikace zobrazí přibližnou cenu vybraných služeb. Poté se můžete rozhodnout, zda chcete rezervaci změnit, zrušit či potvrdit jako závaznou.
+Po odeslání formuláře vám aplikace zobrazí přibližnou cenu vybraných služeb. Poté se můžete rozhodnout, zda chcete rezervaci změnit, zrušit či potvrdit jako závaznou.
 
 ### 3.4 Kdy je vytvoření rezervace dokončeno?
 
-    Rezervace je vytvořená potom, co potvrdíte, že souhlasíte s cenou a podmínkami služeb, které jste si vybrali. Potvrzení se provádí kliknutím na tlačítko "Potvrdit rezervaci". Poté se rezervace stává závaznou a je dokončena. Do několika dnů Vám pak příjde email přímo od centra shrnující Vaši rezervaci a potvrzující finální cenu.
+Rezervace je vytvořená potom, co potvrdíte, že souhlasíte s cenou a podmínkami služeb, které jste si vybrali. Potvrzení se provádí kliknutím na tlačítko "Potvrdit rezervaci". Poté se rezervace stává závaznou a je dokončena. Do několika dnů Vám pak příjde email přímo od centra shrnující Vaši rezervaci a potvrzující finální cenu.
 
 ### 4. Rezervace.
 
 ### 4.1 Co všechno si lze zarezervovat pomocí tohoto sytému?
 
-    Aplikace umožňuje rezervovat spoustu okolních služeb kromě rezervace hřiště či haly. Je možné rezervovat si vybavení, lekce daného sportu, transfer mezi hotelem a hřištěm či jinou aktivitou, samotný hotel a dokonce i aktivity pro nehráče jako například vstupenku do zoo či aquaparku. Nabídka aktivit pro nehráče a celková nabídka dostupných služeb je zobrazena v rezervačním formuláři.
+Aplikace umožňuje rezervovat spoustu okolních služeb kromě rezervace hřiště či haly. Je možné rezervovat si vybavení, lekce daného sportu, transfer mezi hotelem a hřištěm či jinou aktivitou, samotný hotel a dokonce i aktivity pro nehráče jako například vstupenku do zoo či aquaparku. Nabídka aktivit pro nehráče a celková nabídka dostupných služeb je zobrazena v rezervačním formuláři.
 
 ### 4.2 Jak vytvořit závaznou rezervaci?
 
-    Závaznou rezervaci vytvoříte potvrzením souhlasu s kalkulovanou cenou kliknutím na tlačítko "Odeslat závaznou rezervaci", které se zobrazí společně s výpisem rezervovaných služeb po prvotním odeslání rezervačního formuláře.
+Závaznou rezervaci vytvoříte potvrzením souhlasu s kalkulovanou cenou kliknutím na tlačítko "Odeslat závaznou rezervaci", které se zobrazí společně s výpisem rezervovaných služeb po prvotním odeslání rezervačního formuláře.
 
 ### 5. Kalkulace.
 
 ### 5.1 Co znamená cena zobrazená po odeslání formuláře?
 
-    Tato cena ukazuje přibližnou kalkulaci veškerých rezervovaných služeb.Kalkulace je přibližná hlavně pro ty, kteří si zároveň rezervují hotel využívající sezóní ceníky. Kalkulace je tedy docela přesná pro ty, kteří si hotel nerezervují.
+Tato cena ukazuje přibližnou kalkulaci veškerých rezervovaných služeb.Kalkulace je přibližná hlavně pro ty, kteří si zároveň rezervují hotel využívající sezóní ceníky. Kalkulace je tedy docela přesná pro ty, kteří si hotel nerezervují.
 
 ### 5.2 Vybral jsem si balíček, ale nebyla mi započítána sleva.
 
-    Pokud jste si vybrali balíček, ale nebyla Vám započítána sleva, zkontrolujte, zda jste vybrali správné služby, které odpovídají obsahu balíčku, a zda jste něco nevynechali. Také se ujistěte, že datum vašeho příjezdu odpovídá období, kdy je balíček aktivní. Pokud problém přetrvává, obratťe se prosím telefonicky na sportovní centrum.
+Pokud jste si vybrali balíček, ale nebyla Vám započítána sleva, zkontrolujte, zda jste vybrali správné služby, které odpovídají obsahu balíčku, a zda jste něco nevynechali. Také se ujistěte, že datum vašeho příjezdu odpovídá období, kdy je balíček aktivní. Pokud problém přetrvává, obratťe se prosím telefonicky na sportovní centrum.
 
 ### 5.3 Jak cenu ovlivňuje rezervace hotelu či transferu?
 
-    Kalkulovaná cena je pouze přibližná kvůli sezóním ceníkům hotelů a vždy zaokrouhlena nahoru. Rezervujete-li si tedy hotel v přechodu měsíce listopadu a prosince a má-li daný hotel v daném období nastavené 2 různé ceníky, do kalkulované ceny se započítá cena hotelu závislá na dražším z těchto dvou ceníků. Toto je z důvodu, aby až půjdete platit do sportovního centra, nevznikla situace, kdy si kvůli nedokonalému odhadu nevezmete dost peněz.
+Kalkulovaná cena je pouze přibližná kvůli sezóním ceníkům hotelů a vždy zaokrouhlena nahoru. Rezervujete-li si tedy hotel v přechodu měsíce listopadu a prosince a má-li daný hotel v daném období nastavené 2 různé ceníky, do kalkulované ceny se započítá cena hotelu závislá na dražším z těchto dvou ceníků. Toto je z důvodu, aby až půjdete platit do sportovního centra, nevznikla situace, kdy si kvůli nedokonalému odhadu nevezmete dost peněz.
 
 ### 5.4 Finální cena rezervace.
 
-    Finální cenu rezervace se dovíte emailem od sportovního centra, případně ve sportovním centru při ohlášení příchodu na recepci. Tato cena bude přesná či nižší než odhadovaná kalkulace v závislosti na rezervovaných službách.
+Finální cenu rezervace se dovíte emailem od sportovního centra, případně ve sportovním centru při ohlášení příchodu na recepci. Tato cena bude přesná či nižší než odhadovaná kalkulace v závislosti na rezervovaných službách.
 
 ### 6. Podmínky zpracování osobních údajů.
 
