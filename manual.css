@@ -1,24 +1,62 @@
 * {
   font-family: "Montserrat", sans-serif;
 }
-
-.big-nadpis {
-  font-size: 70px;
-  color: black;
+.footer {
+  margin-top: 20px;
   text-align: center;
-  margin-top: 90px;
 }
-body {
-  margin-bottom: 100px;
-  margin-left: 20px;
-  margin-right: 20px;
+ol {
+  counter-reset: item;
 }
-p {
-  margin-left: 30px;
-  margin-right: 30px;
-  text-align: justify;
-  font-size: 16px;
+li {
+  display: block;
 }
-footer {
-  margin-top: 30px;
+li:before {
+  content: counters(item, ".") " ";
+  counter-increment: item;
+}
+@media only screen and (max-width: 767px) {
+  .big-nadpis {
+    font-size: 40px;
+    color: black;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+  .footer {
+    margin-top: 20px;
+    text-align: center;
+    margin-bottom: 50px;
+  }
+  body ol {
+    margin-bottom: 50px;
+    margin-left: -20px;
+    margin-right: 20px;
+  }
+  p {
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 10px;
+    margin-bottom: 0px;
+  }
+  ol {
+    counter-reset: item;
+  }
+  li {
+    display: block;
+    font-size: 18px;
+    font-weight: bold;
+  }
+  li ol {
+    margin-left: -20px;
+    margin-top: 20px;
+    margin-bottom: 0px;
+  }
+
+  li:before {
+    content: counters(item, ".") ".  ";
+    counter-increment: item;
+  }
 }
